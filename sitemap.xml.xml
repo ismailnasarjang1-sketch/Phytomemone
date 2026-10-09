@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Homepage (Main Landing Page) -->
+    <url>
+        <loc>https://usaphytomemone.com/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Privacy Policy Page -->
+    <url>
+        <loc>https://usaphytomemone.com/privacy-policy.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Terms & Conditions Page -->
+    <url>
+        <loc>https://usaphytomemone.com/terms.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Disclaimer Page -->
+    <url>
+        <loc>https://usaphytomemone.com/disclaimer.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Refund Policy Page -->
+    <url>
+        <loc>https://usaphytomemone.com/refund-policy.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://usaphytomemone.com/contact.html</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usaphytomemone.com/sitemap.xml
