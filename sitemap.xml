@@ -9,6 +9,14 @@
         <priority>1.0</priority>
     </url>
 
+    <!-- Ingredients & Formula SEO Page -->
+    <url>
+        <loc>https://usaphytomemone.com/phytomem-one-ingredients.html</loc>
+        <lastmod>2026-10-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
     <!-- Privacy Policy Page -->
     <url>
         <loc>https://usaphytomemone.com/privacy-policy.html</loc>
